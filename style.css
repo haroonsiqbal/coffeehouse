@@ -1,0 +1,22 @@
+
+.pageHeader {
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.shop {
+    display: flex;
+    flex-basis: 30%;
+}
+
+
+
+body {
+    background-color: goldenrod;
+}
